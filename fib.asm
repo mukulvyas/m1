@@ -49,5 +49,4 @@ fib_done:
 
 ; External C functions
 extern printf
-extern main
 
